@@ -1,0 +1,1 @@
+python-osrsapi==0.0.3
