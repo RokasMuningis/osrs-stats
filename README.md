@@ -14,3 +14,5 @@ python3 stats.py username im
 python3 stats.py username hcim
 python3 stats.py username uim
 ```
+
+you will find .txt file for each skill in `out/` dir
